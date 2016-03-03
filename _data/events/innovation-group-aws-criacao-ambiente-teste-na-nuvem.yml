@@ -1,0 +1,15 @@
+# ATENÇÃO:
+# - `name` e `date` são obrigatórios
+# - se não souber algum dado, apague a linha
+# - apague os comentários (tudo que tem um `#` na frente)
+
+name: Innovation Group - AWS Criação de Ambiente Testes na Nuvem# não colocar o ano do evento no nome
+date: 22/03/2016 # formato dd/MM/yyyy. Para vários dias, separe por vírgula: 28/01/2015, 29/01/2015
+time: 18:00 - 21:30 # formato HH:mm
+type: 1 # 0 ou em branco para Externo, 1 para Interno
+location: CWI Carlos Gomes# o nome do lugar
+address: Av. Carlos Gomes, 222, bairro Auxiliadora, Porto Alegre/RS
+img: https://cloud.githubusercontent.com/assets/6477292/13503425/1a8926ce-e14e-11e5-9b22-3d76c94b4eeb.png # URL da imagem do evento. Máximo de 100kb. Ideal < 50kb
+price: 0# valor sem centavos. Se gratuito, informe 0. Para vários valores (lotes), separe por vírgula: 180, 240, 300
+description: Iremos criar uma conta, levantar um ambiente e explorar os recursos AWS para testes! Venha preparado, traga seu notebook!
+tags: Innovation, Cloud, Amazon, Environment, Devices, Testes #no máximo umas 5 ou 6 tags, separadas por vírgula
